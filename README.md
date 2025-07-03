@@ -1,5 +1,5 @@
 #  Finding frequent item-sets + LSH for similar papers.
-Some of tasks done in this Repo:
+Some of tasks done in this Repo([papers' dataset](https://drive.google.com/file/d/1-EhpZaY5gvbgNuEU5IskmlQ0EnNAG5cu/view?usp=drive_link)) which is part of a MDA assignment::
 - Find the most frequent three-word sets using the priori-A algorithm
 ```markdown
 ('galaxies', 'mass', 'type'): 1118
